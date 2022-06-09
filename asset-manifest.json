@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0e538b7.chunk.css",
+    "main.js": "/static/js/main.0eb063ae.chunk.js",
+    "main.js.map": "/static/js/main.0eb063ae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90ca95cf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90ca95cf.js.map",
+    "static/js/2.6cdaf783.chunk.js": "/static/js/2.6cdaf783.chunk.js",
+    "static/js/2.6cdaf783.chunk.js.map": "/static/js/2.6cdaf783.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.db556f1e2913da724497f40e796161b1.js": "/precache-manifest.db556f1e2913da724497f40e796161b1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f0e538b7.chunk.css.map": "/static/css/main.f0e538b7.chunk.css.map",
+    "static/js/2.6cdaf783.chunk.js.LICENSE.txt": "/static/js/2.6cdaf783.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/alarmClock.2803116d.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90ca95cf.js",
+    "static/js/2.6cdaf783.chunk.js",
+    "static/css/main.f0e538b7.chunk.css",
+    "static/js/main.0eb063ae.chunk.js"
+  ]
+}
